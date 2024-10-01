@@ -11,7 +11,7 @@ Worked on the paper [Detection of Diabetes Using Multilayer Perceptron: Proceedi
 Developed a basic feed-forward neural network to classify 64x64 chest X-ray images for Pneumonia detection.
 
 #### 3. Coral Image Classification:
-Built a feed-forward network to classify healthy vs bleached corals using the [Healthy and Bleached Corals Image Classification Dataset] (https://www.kaggle.com/datasets/vencerlanz09/healthy-and-bleached-corals-image-classification). The dataset contains 923 images: 438 healthy and 485 bleached corals.
+Built a feed-forward network to classify healthy vs bleached corals using the [Healthy and Bleached Corals Image Classification Dataset](https://www.kaggle.com/datasets/vencerlanz09/healthy-and-bleached-corals-image-classification). The dataset contains 923 images: 438 healthy and 485 bleached corals.
 
 
 # Week 2: Convolutional Neural Networks
