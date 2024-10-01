@@ -1,33 +1,52 @@
-# Week 1
+# Week 1: Neural Networks Fundamentals
 
 Learned how to create a neural network
 
-1. Implemented a paper named [Detection of Diabetes Using Multilayer Perceptron: Proceedings of ICICA 2018](https://www.researchgate.net/profile/Saumendra-Mohapatra/publication/327545512_Detection_of_Diabetes_Using_Multilayer_Perceptron_Proceedings_of_ICICA_2018/links/5cdd2644458515712eae0a3e/Detection-of-Diabetes-Using-Multilayer-Perceptron-Proceedings-of-ICICA-2018.pdf). In this paper,  Multilayer Perceptron (MLP) Network is used for classification of pregnant women. Proposed technique has been applied on the diabetes database of PIMA for Indian people and is collected from University of California (UCI).
+#### 1. Implemented a Research Paper:
 
-2. Implemented a basic feed-forward network and classify 64*64 chest x-ray to detect Pneumonia.
+Worked on the paper [Detection of Diabetes Using Multilayer Perceptron: Proceedings of ICICA 2018](https://www.researchgate.net/profile/Saumendra-Mohapatra/publication/327545512_Detection_of_Diabetes_Using_Multilayer_Perceptron_Proceedings_of_ICICA_2018/links/5cdd2644458515712eae0a3e/Detection-of-Diabetes-Using-Multilayer-Perceptron-Proceedings-of-ICICA-2018.pdf). The MLP network was applied to classify pregnant women using the PIMA diabetes dataset from UCI.
 
-3. Implemented a basic feed-forward network for the classification of healthy and bleached corals. The [Healthy and Bleached Corals Image Classification Dataset] (https://www.kaggle.com/datasets/vencerlanz09/healthy-and-bleached-corals-image-classification) contains a total of 923 images collected from Flickr using the Flickr API. These images are categorized into two distinct classes: healthy corals (438 images) and bleached corals (485 images).
+#### 2. Chest X-ray Classification:
 
-# Week 2
+Developed a basic feed-forward neural network to classify 64x64 chest X-ray images for Pneumonia detection.
 
-1. Learned how to build CNN model and implemented a CNN model on [Alzheimer MRI Preprocessed Dataset](https://www.kaggle.com/datasets/sachinkumar413/alzheimer-mri-dataset).
-2. Building architectures of GoogleNet, ResNet.
-3. Transfer learning
-4. Data Augmentation
+#### 3. Coral Image Classification:
+Built a feed-forward network to classify healthy vs bleached corals using the [Healthy and Bleached Corals Image Classification Dataset] (https://www.kaggle.com/datasets/vencerlanz09/healthy-and-bleached-corals-image-classification). The dataset contains 923 images: 438 healthy and 485 bleached corals.
 
-# Week 3
 
-1. Learned how to handle data imbalance problem.
-2. Implementing LSTM to handle sequential problems.
+# Week 2: Convolutional Neural Networks
 
-# Week 4
+#### 1. Implemented CNN on Alzheimer MRI Dataset:
+Worked with the Alzheimer MRI Preprocessed Dataset to build a CNN model for early detection.
 
-1. Learned how to address overfitting and underfitting
-2. Implemeneted WaveNet
-3. Learned classification, object detection and segmentation
+#### 2. Model Architectures:
+Explored and built architectures of GoogleNet and ResNet.
 
-# Week 5
+#### 3. Transfer Learning & Data Augmentation:
+Utilized transfer learning to improve performance and applied data augmentation techniques to enhance model robustness.
 
-Learned how to use YOLO for object detection
+# Week 3: Handling Data Imbalance & Sequential Data
+
+#### 1. Data Imbalance:
+Learned techniques to handle data imbalance problems, improving model accuracy on underrepresented classes.
+
+#### 2. LSTM Implementation:
+Implemented an LSTM (Long Short-Term Memory) network for sequential data handling.
+
+# Week 4: Advanced Model Training
+
+#### 1. Overfitting & Underfitting:
+Studied how to mitigate overfitting and underfitting to improve model generalization.
+
+#### 2. WaveNet Implementation:
+Explored generative audio models by implementing WaveNet.
+
+#### 3. Advanced Computer Vision:
+Gained insights into classification, object detection, and segmentation techniques.
+
+# Week 5: Object Detection
+
+#### YOLO (You Only Look Once):
+Mastered the use of YOLO for real-time object detection tasks.
 
 
