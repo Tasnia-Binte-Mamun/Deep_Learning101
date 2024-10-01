@@ -1,4 +1,4 @@
-# Week 1: Neural Networks Fundamentals
+[# Week 1: Neural Networks Fundamentals
 
 Learned how to create a neural network
 
@@ -17,7 +17,7 @@ Built a feed-forward network to classify healthy vs bleached corals using the [H
 # Week 2: Convolutional Neural Networks
 
 #### 1. Implemented CNN on Alzheimer MRI Dataset:
-Worked with the Alzheimer MRI Preprocessed Dataset to build a CNN model for early detection.
+Worked with the [Alzheimer MRI Preprocessed Dataset](https://www.kaggle.com/datasets/sachinkumar413/alzheimer-mri-dataset) to build a CNN model for early detection.
 
 #### 2. Model Architectures:
 Explored and built architectures of GoogleNet and ResNet.
