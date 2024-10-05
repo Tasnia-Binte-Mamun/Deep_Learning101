@@ -1,4 +1,4 @@
-[# Week 1: Neural Networks Fundamentals
+# Week 1: Neural Networks Fundamentals
 
 Learned how to create a neural network
 
