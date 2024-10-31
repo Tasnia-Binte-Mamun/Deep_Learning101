@@ -47,6 +47,6 @@ Gained insights into classification, object detection, and segmentation techniqu
 # Week 5: Object Detection
 
 #### YOLO (You Only Look Once):
-Mastered the use of YOLO for real-time object detection tasks.
+Introduced to the use of YOLO for real-time object detection tasks.
 
 
